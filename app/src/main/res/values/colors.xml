@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    val Green80 = Color(0xFF6C933F)
+    val BackDark80 = Color(0xFF000000)
+    val GreenDark80 = Color(0xFF4E6D2B)
+    val Green40 = Color(0xFF6C933F)
+    val BackDark40 = Color(0xFF66705B)
+    val GreenDark40 = Color(0xFF212C15)
+</resources>
